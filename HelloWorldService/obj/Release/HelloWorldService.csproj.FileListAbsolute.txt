@@ -1,0 +1,5 @@
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldService\bin\Release\HelloWorldService.dll
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldService\bin\Release\HelloWorldService.pdb
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.csprojResolveAssemblyReference.cache
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.dll
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.pdb

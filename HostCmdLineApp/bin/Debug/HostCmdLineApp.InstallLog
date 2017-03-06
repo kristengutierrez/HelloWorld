@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.InstallLog
+   assemblypath = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+Installing service HelloWorldService...
+Service HelloWorldService has been successfully installed.
+Creating EventLog source HelloWorldService in log Application...
+Committing assembly 'C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.InstallLog
+   assemblypath = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+Uninstalling assembly 'C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.InstallLog
+   assemblypath = C:\Users\kristenkozmary\Documents\Visual Studio 2015\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+Removing EventLog source HelloWorldService.
+Service HelloWorldService is being removed from the system...
+Service HelloWorldService was successfully removed from the system.

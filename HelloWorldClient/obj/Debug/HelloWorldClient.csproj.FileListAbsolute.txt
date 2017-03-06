@@ -1,0 +1,6 @@
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
+C:\Users\kristenkozmary\documents\visual studio 2015\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.csprojResolveAssemblyReference.cache
